@@ -1,4 +1,4 @@
 # Simple-Calculator
 
-## Website link 
+## link
 https://febiecode.github.io/Simple-Calculator/index.html
